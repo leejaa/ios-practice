@@ -1,8 +1,8 @@
 //
 //  SceneDelegate.swift
-//  Map
+//  Navigation
 //
-//  Created by BeomGeun Lee on 2021/11/09.
+//  Created by BeomGeun Lee on 2021/11/10.
 //
 
 import UIKit
